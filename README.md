@@ -13,5 +13,5 @@ $ python neutrino_gui.py
 - python 3.8    
 
 
-## 作者
+## Author
 [fk-ln](https://github.com/fk-ln)
